@@ -1,4 +1,4 @@
-# Crud-operation--mongodb
+
 ## Spark Mini Project: Customer Orders Analytics
 
 A small, self-contained PySpark project that reads sample customer and order data, performs common transformations (schema cleanup, filters), analytics (aggregations, joins), and writes results to CSV and Parquet. Designed for quick demos, labs, or a college mini-project on distributed data processing.
