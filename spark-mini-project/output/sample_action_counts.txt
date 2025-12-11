@@ -1,0 +1,3 @@
+customers_enriched count: 5
+orders (shipped) count: 8
+country groups: 4
